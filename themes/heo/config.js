@@ -29,7 +29,7 @@ const CONFIG = {
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '码上生活', url: '/tag/CS' },
-  HEO_HERO_CATEGORY_2: { title: '热门推荐', url: '/tag/推荐' },
+  HEO_HERO_CATEGORY_2: { title: '最近推荐', url: '/tag/推荐' },
   HEO_HERO_CATEGORY_3: { title: '个人思考', url: '/tag/思考' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
